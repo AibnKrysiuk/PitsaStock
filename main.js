@@ -38,7 +38,7 @@ function generarListaParaCompartir(){
 
     
 
-    const lista = `Stock: 
+    const lista = `Buenas noches, dejo Stock: 
     Bondiola: ${bondiola} 
     Bondiola porc: ${bond} 
     Pollo: ${pollo}  
